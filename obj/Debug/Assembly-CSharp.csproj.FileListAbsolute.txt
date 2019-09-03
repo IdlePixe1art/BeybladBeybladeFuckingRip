@@ -1,0 +1,2 @@
+C:\Users\Kieron\Documents\Fun lil thang\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Kieron\Documents\Fun lil thang\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
