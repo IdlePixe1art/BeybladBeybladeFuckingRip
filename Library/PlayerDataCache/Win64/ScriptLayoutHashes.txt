@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/Kieron/Documents/Fun lil thang/Platformer.exe
+C:/Users/Kieron/Documents/BeybladBeybladeFuckingRip/Platformer.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
